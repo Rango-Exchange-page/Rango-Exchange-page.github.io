@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /rango-exchange/
-Sitemap: https://rango-exchange.github.io/sitemap.xml
